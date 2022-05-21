@@ -4,16 +4,13 @@ A old-school DOSBOX-like theme for vim that might induce nostalgia.
 
 # Installation
 
--Download repository
+Using [vim-plug](https://github.com/junegunn/vim-plug):
 
--Get .vim files out to downloads folder
+Add
 
--Open terminal and execute this command
+`Plug 'gsmrs/dosbox-vim-colorscheme'`
 
-`mv ~/Downloads/vim-distinguished-develop/colors/*.vim ~/.vim/colors/`
-
--Reopen VIM and do `:colorscheme dosbox`
-
+to your `.vimrc`'s plugin section.
 
 # Screenshots
 
